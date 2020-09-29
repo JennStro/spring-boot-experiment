@@ -42,7 +42,6 @@ public class Customer {
         this.id = id;
     }
 
-    @Id
     public Long getId() {
         return id;
     }

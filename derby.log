@@ -1,21 +1,8 @@
 ----------------------------------------------------------------
-Tue Sep 29 15:58:05 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-da27-ef1e-000001c1c3c8 
-on database directory memory:/Users/Jenny/Desktop/spring-boot-experiment/4ce0b647-7b45-499e-948f-0c2ee6f80982 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
-Loaded from file:/Users/Jenny/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=AdoptOpenJDK
-java.runtime.version=14.0.2+12
-user.dir=/Users/Jenny/Desktop/spring-boot-experiment
-os.name=Mac OS X
-os.arch=x86_64
-os.version=10.15.6
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Tue Sep 29 15:58:14 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 292a80bc-0174-da27-ef1e-000001c1c3c8 
-on database directory memory:/Users/Jenny/Desktop/spring-boot-experiment/bbb6258b-5ec5-41a0-95e6-a8128e3d7dcb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
-Loaded from file:/Users/Jenny/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+Tue Sep 29 16:18:25 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-da3a-918c-000001f262e0 
+on database directory memory:/Users/Jenny/Desktop/spring-boot-experiment/d819b773-4dfb-4298-8f76-678cad573b90 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@238e0d81 
+Loaded from jar:file:/Users/Jenny/Desktop/spring-boot-experiment/target/spring-boot-experiment-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
 java.vendor=AdoptOpenJDK
 java.runtime.version=14.0.2+12
 user.dir=/Users/Jenny/Desktop/spring-boot-experiment
