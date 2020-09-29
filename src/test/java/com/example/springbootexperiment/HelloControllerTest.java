@@ -18,7 +18,7 @@ public class HelloControllerTest {
     @Autowired private MockMvc mockMvc;
 
     @Test
-    public void getHello() throws Exception {
+    public void shouldReturnGreeting() throws Exception {
         mockMvc.perform(
                 MockMvcRequestBuilders
                         .get("/")
