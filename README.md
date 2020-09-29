@@ -6,4 +6,9 @@ Run using `./mvnw spring-boot:run`.
 
 `curl localhost:8080/hello?Jenny` should give you a greeting.   
 
-`curl localhost:8080/` should give you a greeting.
+`curl localhost:8080/` should give you a greeting.   
+
+
+Download the Spring CLI and then run   
+`spring run src/main/groovy/app.groovy  `should run the groovy app and `curl localhost:8080` should give you a greeting.
+
