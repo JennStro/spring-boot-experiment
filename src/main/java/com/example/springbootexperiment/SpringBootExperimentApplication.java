@@ -1,5 +1,7 @@
 package com.example.springbootexperiment;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -15,6 +17,7 @@ import java.util.Arrays;
 @RestController
 public class SpringBootExperimentApplication {
 
+	private static final Logger log = LoggerFactory.getLogger(SpringBootExperimentApplication.class);
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootExperimentApplication.class, args);
